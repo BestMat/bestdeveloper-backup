@@ -1,0 +1,22 @@
+/* ©2024 - BestDeveloper - BestMat - All rights reserved */
+.heading {
+    font-weight: bold;
+    font-size: 47px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.paragraph-headline {
+    text-align: center;
+    margin: 0px 50px;
+    color: #7c7c7c;
+}
+
+.start-btn {
+    margin-top: 10px;
+}
+
+.head-image {
+    border-radius: 50px;
+    height: 400px;
+}
